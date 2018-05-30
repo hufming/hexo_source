@@ -1,7 +1,8 @@
 ---
 title: 专注力
 date: 2018-05-29 16:04:58
-tags: notes
+categories: reading notes
+tags: others
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: 芒格演讲1:在哈佛学习毕业典礼上的演讲
 date: 2018-05-28 21:26:34
-tags: notes
+categories: reading notes
+tags: investment
 ---
 对于如何才能走向成功这道题目，有着正向和逆向两种不同的求解方式。
 
